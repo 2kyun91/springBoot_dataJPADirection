@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 
-import com.example.dao.PDSBoard;
+import com.example.dto.PDSBoard;
 
 /*
  * tbl1_pdsfiles 테이블에는 tbl1_pdsboard의 pdsId를 참조(일대다)해서 값이 들어가야 한다.

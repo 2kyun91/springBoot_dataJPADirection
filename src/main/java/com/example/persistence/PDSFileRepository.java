@@ -4,7 +4,7 @@ import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 
-import com.example.dao.PDSFile;
+import com.example.dto.PDSFile;
 
 public interface PDSFileRepository extends CrudRepository<PDSFile, Long>{
 	

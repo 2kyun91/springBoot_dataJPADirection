@@ -6,7 +6,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 
-import com.example.dao.FreeBoard;
+import com.example.dto.FreeBoard;
 
 /*
  * 각 엔티티가 별도의 라이프사이클을 가진다면 별도의 Repository를 생성하는 것이 좋다.

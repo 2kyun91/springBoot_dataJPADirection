@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 
-import com.example.dao.Member;
+import com.example.dto.Member;
 
 public interface MemberRepository extends CrudRepository<Member, String>{
 	

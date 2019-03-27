@@ -11,8 +11,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.annotation.Commit;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.example.dao.Member;
-import com.example.dao.Profile;
+import com.example.dto.Member;
+import com.example.dto.Profile;
 import com.example.persistence.MemberRepository;
 import com.example.persistence.ProfileRepository;
 

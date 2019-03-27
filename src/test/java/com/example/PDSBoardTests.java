@@ -15,8 +15,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.annotation.Commit;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.example.dao.PDSBoard;
-import com.example.dao.PDSFile;
+import com.example.dto.PDSBoard;
+import com.example.dto.PDSFile;
 import com.example.persistence.PDSBoardRepository;
 import com.example.persistence.PDSFileRepository;
 

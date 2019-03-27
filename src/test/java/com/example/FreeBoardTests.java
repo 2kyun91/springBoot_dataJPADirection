@@ -17,8 +17,8 @@ import org.springframework.data.domain.Sort;
 import org.springframework.test.annotation.Commit;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.example.dao.FreeBoard;
-import com.example.dao.FreeBoardReply;
+import com.example.dto.FreeBoard;
+import com.example.dto.FreeBoardReply;
 import com.example.persistence.FreeBoardReplyRepository;
 import com.example.persistence.FreeBoardRepository;
 
